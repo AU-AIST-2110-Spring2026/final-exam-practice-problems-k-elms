@@ -24,7 +24,7 @@ def get_directions(location: str) -> list[str]:
     #
     # Example:
     # If location is "Library", this function should return ["n", "e"].
-
+    
     
 
 
